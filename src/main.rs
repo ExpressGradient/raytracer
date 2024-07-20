@@ -1,6 +1,9 @@
 use std::fs::File;
 use std::io::{Result, Write};
 
+mod vec3;
+use vec3::Vec3;
+
 fn main() -> Result<()> {
     // Config
     let width = 256;
