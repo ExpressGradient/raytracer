@@ -1,3 +1,3 @@
-# RayTracer in One Weekend - Rust
+# RayTracer - Rust
 
 ![image_gen](./assets/image.png)
